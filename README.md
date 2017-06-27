@@ -1,8 +1,7 @@
 ## What is matip? ##
 Maticv （mobile application test in opencv） 
-
-Maticv是一个使用“视觉图像匹配”方法来自动化图形用户界面的自动化测试框架。
-Maticv支持Android平台上的各种应用，所有手机屏幕上的元素都被视为一个图像，并存储在项目中。Maticv将基于对作为参数传递的图像进行视觉匹配出发GUI交互。
+Maticv是一个使用“视觉图像匹配”方法来自动化图形用户界面的自动化测试框架。  
+Maticv支持Android平台上的各种应用，所有手机屏幕上的元素都被视为一个图像，并存储在项目中。Maticv将基于对作为参数传递的图像进行视觉匹配出发GUI交互。  
 Maticv对手游非常有用（对象不具有ID或名称），它在有一个稳定的图形用户界面（如，GUI组建不可变）的情况下是很有用的。
 
 ### Actual use ###
@@ -26,6 +25,6 @@ Maticv对手游非常有用（对象不具有ID或名称），它在有一个稳
     python setup.py install
 注：上述两种方法安装maticv需要将python加入环境变量
 
-** 有任何疑问或吐槽请联系： **
+** 有任何疑问或吐槽请联系: **
 - QQ：873334303
 - Email：873334303@qq.com
